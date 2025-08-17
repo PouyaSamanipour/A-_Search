@@ -29,4 +29,9 @@ This project implements the **A\*** pathfinding algorithm in C++. It finds the s
 
 ---
 
-## 📂 File Structure
+🚦   🚗   0   0   0   0
+⛰️   🚗   ⛰️   ⛰️   ⛰️   0
+0   🚗   0   0   0   0
+0   🚗   0   ⛰️   ⛰️   0
+0   🚗   🚗   🚗   🚗   🏁
+
